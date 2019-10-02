@@ -1,10 +1,7 @@
-# d3-Cheng
+<p align="center">
+  <h1>D3.js Area Chart</h1>
+</p>
 
-1. [gauge](https://bumbeishvili.github.io/d3-Cheng/gauge/)
-2. [area](https://bumbeishvili.github.io/d3-Cheng/area/)
-3. [combined](https://bumbeishvili.github.io/d3-Cheng/layout.html)
-4. [other freelancer's blue gauge](https://bumbeishvili.github.io/d3-Cheng/blueGaugeOtheFreelancers/)
-5. [my blue gauge](https://bumbeishvili.github.io/d3-Cheng/blueGauge/)
-6. [storage capacity](https://bumbeishvili.github.io/d3-Cheng/storageCapacity/)
-7. [number of cores](https://bumbeishvili.github.io/d3-Cheng/numberOfCores/)
-8. [ram](https://bumbeishvili.github.io/d3-Cheng/ram/)
+<!-- Badges -->
+
+<img src="https://2.bp.blogspot.com/-T50YZP5hlW4/Vv07k1PPVmI/AAAAAAAAM_Q/kVo8eImMOFUWLYqXg_xGzaWPvvlO7lhng/s0/adwords-dart.png" width="800" alt="Built with AngularDart">
