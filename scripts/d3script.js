@@ -1,6 +1,4 @@
 
-
-
 function renderChartArea(params) {
   // exposed variables
   var attrs = {
