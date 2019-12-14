@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>D3.js Area Chart</h1>
+  <h2>D3.js Area Chart</h2>
 </p>
 
 
